@@ -6,7 +6,7 @@ This demo present a smart standard sticky header, which will only be visible whe
 
 * [Bootstrab 4](https://getbootstrap.com/)
 * [jQuery](https://jquery.com/)
-* [jQuery](https://www.w3schools.com/html/html_intro.asp)
+* [HTML & CSS3](https://www.w3schools.com/html/html_intro.asp)
 
 ## Contributing
 
